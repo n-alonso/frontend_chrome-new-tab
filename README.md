@@ -1,6 +1,7 @@
 # chrome-new-tab
 
-This is small project that I did for my self at my current role in Yapily.
+This is small project that I did for my self at my current role in Yapily.  
+It also follows Yapily's branding specifications to stay in line with where I use it.
 
 I personally do not enjoy the use of bookmarks as they become messy really quickly, so I just designed a quick static page with the most common links I use.
 
