@@ -7,3 +7,6 @@ I personally do not enjoy the use of bookmarks as they become messy really quick
 
 While using it I noticed that in Chrome if you change the landing page for a new tab, the address bar is not focused+highlighted anymore, which made it inconvenient when I just wanted to Google something.  
 To resolve this, I just added an input field that redirects to www.google.com and apends a query parameter `q=input` so it searches for it straightaway, then I made the input search bar autofocus on page load.
+
+I manage the original repository in a private repo in Bitbucket.
+You can visit it [here](https://nicolas-alonso.bitbucket.io/).
