@@ -9,4 +9,6 @@ While using it I noticed that in Chrome if you change the landing page for a new
 To resolve this, I just added an input field that redirects to www.google.com and apends a query parameter `q=input` so it searches for it straightaway, then I made the input search bar autofocus on page load.
 
 I manage the original repository in a private repo in Bitbucket.
-You can visit it [here](https://nicolas-alonso.bitbucket.io/).
+You can visit:
+1. [Project](https://nicolas-alonso.bitbucket.io/).
+2. [Repo](https://bitbucket.org/nicolas-alonso/nicolas-alonso.bitbucket.io/src/master/).
