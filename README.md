@@ -11,5 +11,5 @@ To resolve this, I just added an input field that redirects to www.google.com an
 I manage the original repository in Bitbucket, in a private repository via Command Line.
 Links:
 1. [Project](https://nicolas-alonso.bitbucket.io/).
-2. [Repository](https://bitbucket.org/nicolas-alonso/nicolas-alonso.bitbucket.io/src/master/).
+2. [Repository](https://bitbucket.org/nicolas-alonso/nicolas-alonso.bitbucket.io/src/master/).  
 Even though the repository cannot be accessed due to it being private, I just link it to demonstrate my knowledge on Bitbucket.
